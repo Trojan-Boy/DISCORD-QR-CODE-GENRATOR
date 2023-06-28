@@ -49,4 +49,4 @@ client.on('message', async (message) => {
     }
 });
 
-client.login('MTEyMjExMjY2OTY0Njg2MDM1OQ.Gtk64I.Ex2Loh6QI_7PqddF1Dwzr41KDKSsLR9iJC8S50');
+client.login('Your bot Token');
